@@ -2,6 +2,8 @@
 
 int main(){
 
-	printf("@XXXX[{::::::::::::>");
+	printf("  _      _     _   \n");
+	printf(">(.)__ <(.)_ =(.)__\n");
+	printf(" (___/  (___/ (___/\n");
 	return 0;
 }
